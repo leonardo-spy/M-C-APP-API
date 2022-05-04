@@ -1,0 +1,11 @@
+fastapi==0.75.2
+pytest==7.1.2
+PyMySQL==1.0.2
+pydantic==1.9.0
+SQLAlchemy==1.4.36
+uvicorn==0.17.6
+sqlmodel==0.0.4
+networkx==2.8
+mysql-connector==2.2.9
+alembic==1.7.7
+requests==2.27.1

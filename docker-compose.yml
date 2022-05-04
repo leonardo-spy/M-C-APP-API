@@ -1,0 +1,28 @@
+version: '3.5'
+services:
+    fastapi_server:
+        container_name: fastapi_server
+        build: ./app
+        restart: always
+        command: "sh -c 'python main.py'"
+        ports:
+            - "8000:8000"
+        volumes:
+          - ./app:/code
+          - ./app/requirements.txt:/code/requirements.txt
+        expose:
+          - "8000"
+        env_file: "mysql.env"
+        depends_on:
+          - database
+
+    database:
+        image: mysql:5.7
+        ports:
+            - "3306:3306"
+        expose:
+            - "3306"
+        volumes:
+            - ./db:/docker-entrypoint-initdb.d
+
+        env_file: "mysql.env"
