@@ -1,4 +1,4 @@
-# Milenio Capital App - API
+# MC App - API
 
 ## Desafio Dev Jr/Pl
 
@@ -76,4 +76,5 @@ O Endpoints é formado somente por rotas públicas.
 ![166562165-4dee400a-c4cd-4da3-9568-e180a1d11816](https://user-images.githubusercontent.com/19514153/166841820-38b0b127-8c78-4ad8-b074-c438248e46b8.png)
 
 ## Notas do Dev
-Eu Leonardo queria agradecer a esta oportunidade que a Milenio Capital está proporcionando para todos os amantes da programação de todo o Brasil.
+Eu Leonardo queria agradecer a esta oportunidade que a MC está proporcionando para todos os amantes da programação de todo o Brasil.
+PS: A Empresa pediu para que censura-se seu nome!
