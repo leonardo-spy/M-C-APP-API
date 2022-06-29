@@ -5,7 +5,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from time import sleep
 
-engine = create_engine(getenv("DATABASE_URL","mysql+pymysql://root:@localhost:3306/milenio_capital"))
+engine = create_engine(getenv("DATABASE_URL","mysql+pymysql://root:@localhost:3306/m_c"))
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
