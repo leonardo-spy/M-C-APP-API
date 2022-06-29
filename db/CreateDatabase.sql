@@ -1,4 +1,4 @@
-USE milenio_capital;
+USE m_c;
 
 SET character_set_client = utf8;
 SET character_set_connection = utf8;

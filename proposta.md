@@ -1,4 +1,4 @@
-<b>Link nativo da Proposta: [https://gitlab.com/milenio-capital/desafio-dev-jr-pl](https://gitlab.com/milenio-capital/desafio-dev-jr-pl/)</b><br>
+<b>Link nativo da Proposta: [https://bit.ly/3bFNRio](https://bit.ly/3bFNRio/)</b><br>
 # Desafio Dev Jr/Pl
 Bem vindo(a)! Esse desafio tem como objetivo avaliar a capacidade do candidato de construir uma API seguindo as melhores práticas e padrões de desenvolvimento. 
 

@@ -77,4 +77,4 @@ O Endpoints é formado somente por rotas públicas.
 
 ## Notas do Dev
 Eu Leonardo queria agradecer a esta oportunidade que a MC está proporcionando para todos os amantes da programação de todo o Brasil.
-O nome real foi censurado a pedido da própria empresa
+PS: A Empresa pediu para que censura-se seu nome!
